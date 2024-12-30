@@ -26,7 +26,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_map: ">=7.0.0 <8.0.0"
+  flutter_map:
+    git:
+      url: https://github.com/fleaflet/flutter_map.git
+      ref: master
   latlong2: ^0.9.1
 
 dev_dependencies:
