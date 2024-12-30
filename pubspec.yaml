@@ -29,7 +29,7 @@ dependencies:
   flutter_map:
     git:
       url: https://github.com/fleaflet/flutter_map.git
-      ref: master
+      ref: 182c4fc0c73411e2be10774dd227d0da9cf4276a
   latlong2: ^0.9.1
 
 dev_dependencies:
